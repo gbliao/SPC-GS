@@ -10,9 +10,9 @@
 
 ## Example
 
-<video src="https://github.com/gbliao/SPC-GS/raw/refs/heads/main/assets/grouping_ours_recon1.mp4" controls width="1280" height="448"></video>
+<video src="https://raw.githubusercontent.com/gbliao/SPC-GS/main/assets/grouping_ours_recon1.mp4" controls width="1280" height="448"></video>
 
-<video src="https://github.com/gbliao/SPC-GS/raw/refs/heads/main/assets/grouping_ours_seg1.mp4" controls width="1280" height="448"></video>
+<video src="https://raw.githubusercontent.com/gbliao/SPC-GS/main/assets/grouping_ours_seg1.mp4" controls width="1280" height="448"></video>
 
 ## Code Usage
 To be released
