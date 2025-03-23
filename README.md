@@ -8,11 +8,17 @@
 
 <br>
 
+
 ## Example
 
-<video src="https://raw.githubusercontent.com/gbliao/SPC-GS/main/assets/grouping_ours_recon1.mp4" controls width="1280" height="448"></video>
+https://github.com/user-attachments/assets/45e4fb66-54f3-4c8b-b532-574d968142a7
 
-<video src="https://raw.githubusercontent.com/gbliao/SPC-GS/main/assets/grouping_ours_seg1.mp4" controls width="1280" height="448"></video>
+
+https://github.com/user-attachments/assets/4cb366d7-afbd-4397-aa22-71b12f651627
+
+
+
+
 
 ## Code Usage
 To be released
