@@ -8,6 +8,11 @@
 
 <br>
 
+## Example
+
+<video src="https://github.com/gbliao/SPC-GS/blob/main/assets/grouping_ours_recon1.mp4" controls width="1280" height="448"></video>
+
+<video src="https://github.com/gbliao/SPC-GS/blob/main/assets/grouping_ours_seg1.mp4" controls width="1280" height="448"></video>
 
 ## Code Usage
 To be released
