@@ -11,17 +11,22 @@
 
 ## Example
 
-
 https://github.com/user-attachments/assets/db1b0c5f-bb68-466e-9b09-ab34d349d457
-
 
 https://github.com/user-attachments/assets/8bb13233-1cac-481a-8212-5b197a517e8b
 
 
 
 
-## Code Usage
-To be released
+## Data Preparation
+We provide the preprocessed dataset here. You can download them through the following link. 
+[BaiduWangpan](https://pan.baidu.com/s/1zB7j0l50k7Jc8GFUvc2BcQ?pwd=bbjd)
+
+
+
+## Pre-trained Models & Outputs
+We provide the pre-trained models and outputs of our method. You can download them through the following link. 
+[BaiduWangpan](https://pan.baidu.com/s/1kc2FP8tJlIaavtcIPWP_wQ?pwd=zhhy)
 
 
 ## BibTeX
